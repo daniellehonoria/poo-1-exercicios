@@ -35,14 +35,14 @@ export class Video{
       }
 }
 
-const video4 = new Video(
-    "v004",
-    "JS aula 4",
-    31,
-    "2023-01-30 15:08:00"
+// const video4 = new Video(
+//     "v004",
+//     "JS aula 4",
+//     31,
+//     "2023-01-30 15:08:00"
 
-)
-console.table(video4)
+// )
+// console.table(video4)
 
 /*## Videos
 Será a única entidade da aplicação e deve possuir:
